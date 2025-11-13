@@ -16,20 +16,34 @@ You can view my full background and experience here:
 
 ## Recent Projects
 
-Here are a few projects that showcase my engineering interests and skills:
+<!-- Here are a few projects that showcase my engineering interests and skills: -->
 
-### IoT Security Monitoring Dashboard
+---
 
-An end-to-end monitoring solution for IoT devices that collects telemetry, sends it to the cloud, and visualizes real-time alerts and performance metrics.
+### Real-Time STM32 IoT Telemetry Pipeline (2025)
 
-### Cloud-Native Microservices Migration
+A complete end-to-end IoT data pipeline built from scratch, collecting real sensor data from an STM32 microcontroller and streaming it into a fully instrumented cloud dashboard.
 
-Designed and deployed a microservices architecture using containers and Kubernetes, improving scalability, reliability, and security for production workloads.
+**What I built:**
 
-### Home Lab for Offensive & Defensive Security
+- **Embedded device firmware (STM32)**  
+  Programmed the MCU to read temperature and internal sensor values, package them as JSON, and publish them over MQTT.
 
-Built a home lab environment to simulate real-world attack and defense scenarios, integrating SIEM tools, vulnerability scanners, and automated security testing.
+- **Edge → Cloud ingestion**  
+  - Data transmitted to an **Azure IoT Hub** gateway.  
+  - Events automatically routed into an **Azure Storage container** for raw telemetry archiving.
 
+- **Automated data processing (Python)**  
+  - Developed a real-time “blob tailer” service that continuously watches the newest blob in Azure Storage.  
+  - Parses each incoming JSON record and feeds it into **InfluxDB** for time-series storage.
+
+- **Live visualization & monitoring (Grafana)**  
+  - Built a full Grafana dashboard showing STM32 temperature in real time.  
+  - Added detailed field overrides (units, precision, labels), time-series charts, and upcoming stat panels for latest sensor values.  
+  - Configured custom queries in Flux to filter measurement streams and extract latest device metrics.
+
+**Outcome:**  
+A cloud-ready IoT monitoring pipeline capable of collecting, transforming, storing, and visualizing microcontroller telemetry with sub-second latency. This project demonstrates expertise across embedded systems, Python data engineering, cloud ingestion patterns, time-series databases, and observability tooling.
 
 ## Get In Touch
 
