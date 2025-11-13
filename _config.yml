@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
-title: Your Site Title Here
-description: Your site description goes here!
+
+title: Daniyal Akbar
+description: I am a passionate IoT enthusiast.
+
+# Optional – add this later if you have a profile image
+# logo: /assets/img/profile.jpg
+
+# Optional social links (used by some themes/plugins)
+linkedin_username: daniyalakbar
