@@ -2,11 +2,14 @@
 layout: default
 ---
 
-# I am Daniyal Akbar, a passionate IoT enthusiast.
+# I am Daniyal Akbar — an engineer focused on cybersecurity, Python, and IoT systems.
 
 ## What I Do
 
-I am an IoT-focused engineer with experience in cybersecurity, DevSecOps, and cloud infrastructure. I’ve worked on secure CI/CD pipelines, Kubernetes-based microservices, and security monitoring in high-assurance environments across government and defense projects.
+I am a security-minded engineer with hands-on experience in Python automation, embedded systems, cloud infrastructure, and secure system design.  
+My work spans cybersecurity, DevSecOps, and IoT engineering, with an emphasis on building reliable and observable systems that are grounded in sound engineering principles.
+
+I am particularly interested in projects involving Python-based automation, telemetry processing, secure communication between devices, and applying security concepts to real-world data flows.
 
 ## Resume
 
