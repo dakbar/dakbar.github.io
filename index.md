@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# I am Daniyal Akbar, a passionate IoT enthusiast.
+# I am Daniyal Akbar, a passionate Python programmer.
 
 ## What I Do
 
@@ -51,3 +51,4 @@ If you’d like to talk about IoT, cloud, or security engineering opportunities,
 - **Email:** [daniyal.s.akbar@gmail.com](mailto:daniyal.s.akbar@gmail.com)
 - **Location:** Houston, TX
 - **LinkedIn:** [linkedin.com/in/daniyalakbar](https://www.linkedin.com/in/daniyalakbar)
+
