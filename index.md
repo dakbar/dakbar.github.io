@@ -6,7 +6,7 @@ layout: default
 
 ## What I Do
 
-I am an IoT-focused engineer with experience in cybersecurity, DevSecOps, and cloud infrastructure. I’ve worked on secure CI/CD pipelines, Kubernetes-based microservices, and security monitoring in high-assurance environments across government and defense projects.
+I am an IoT-focused engineer with experience in cybersecurity, python, and cloud infrastructure. I’ve worked on secure CI/CD pipelines, Kubernetes-based microservices, and security monitoring in high-assurance environments across government and defense projects.
 
 ## Resume
 
@@ -51,4 +51,5 @@ If you’d like to talk about IoT, cloud, or security engineering opportunities,
 - **Email:** [daniyal.s.akbar@gmail.com](mailto:daniyal.s.akbar@gmail.com)
 - **Location:** Houston, TX
 - **LinkedIn:** [linkedin.com/in/daniyalakbar](https://www.linkedin.com/in/daniyalakbar)
+
 
