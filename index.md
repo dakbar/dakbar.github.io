@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# I am a passionate cybersecurity, Python, and IoT systems engineer.
+# I am a passionate Cybersecurity, Python, and IoT Systems engineer.
 
 ## What I Do
 
