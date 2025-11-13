@@ -46,10 +46,11 @@ A cloud-ready IoT monitoring pipeline capable of collecting, transforming, stori
 
 ## Get In Touch
 
-If you’d like to talk about IoT, cloud, or security engineering opportunities, feel free to contact me:
+If you’d like to talk about Python, cloud, or security engineering opportunities, feel free to contact me:
 
 - **Email:** [daniyal.s.akbar@gmail.com](mailto:daniyal.s.akbar@gmail.com)
 - **Location:** Houston, TX
 - **LinkedIn:** [linkedin.com/in/daniyalakbar](https://www.linkedin.com/in/daniyalakbar)
+
 
 
