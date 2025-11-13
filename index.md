@@ -6,9 +6,7 @@ layout: default
 
 ## What I Do
 
-I am a security-minded engineer with hands-on experience in Python automation, embedded systems, cloud infrastructure, and secure system design.  
-
-I am particularly interested in projects involving Python-based automation, telemetry processing, secure communication between devices, and applying security concepts to real-world data flows.
+I am an IoT-focused engineer with experience in cybersecurity, DevSecOps, and cloud infrastructure. I’ve worked on secure CI/CD pipelines, Kubernetes-based microservices, and security monitoring in high-assurance environments across government and defense projects.
 
 ## Resume
 
@@ -19,8 +17,6 @@ You can view my full background and experience here:
 ## Recent Projects
 
 <!-- Here are a few projects that showcase my engineering interests and skills: -->
-
----
 
 ### Real-Time STM32 IoT Telemetry Pipeline (2025)
 
@@ -46,6 +42,7 @@ A complete end-to-end IoT data pipeline built from scratch, collecting real sens
 
 **Outcome:**  
 A cloud-ready IoT monitoring pipeline capable of collecting, transforming, storing, and visualizing microcontroller telemetry with sub-second latency. This project demonstrates expertise across embedded systems, Python data engineering, cloud ingestion patterns, time-series databases, and observability tooling.
+
 
 ## Get In Touch
 
