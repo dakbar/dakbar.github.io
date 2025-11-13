@@ -30,7 +30,6 @@ Designed and deployed a microservices architecture using containers and Kubernet
 
 Built a home lab environment to simulate real-world attack and defense scenarios, integrating SIEM tools, vulnerability scanners, and automated security testing.
 
-> You can replace these with your real projects over time – just keep the same structure.
 
 ## Get In Touch
 
