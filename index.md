@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# I am Daniyal Akbar — an engineer focused on cybersecurity, Python, and IoT systems.
+# I am a passionate cybersecurity, Python, and IoT systems engineer.
 
 ## What I Do
 
